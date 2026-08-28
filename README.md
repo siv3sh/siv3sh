@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://www.sivesh-pb.com"><img src="https://img.shields.io/badge/Website-0969DA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.sivesh-pb.com"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/siv3sh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hello@sivesh-pb.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="mailto:sivesh.p@ideaelan.com"><img src="https://img.shields.io/badge/Work-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Work email" /></a>
