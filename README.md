@@ -81,3 +81,12 @@ M.Sc. AI/ML at CHRIST University. Presented AgriCLIP-CNN at ICAI.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siv3sh&theme=github_dark" alt="Repos per language" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siv3sh&theme=github_dark" alt="Most commit language" height="165" />
 </p>
+
+---
+
+<h2 align="center">Sivesh's Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=siv3sh&bg_color=000000&color=bebebe&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Sivesh's Contribution Graph" />
+</p>
+
