@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&customColorList=0,2,24&text=Sivesh%20%C2%B7%20Junior%20AI%20Engineer&fontSize=34&fontColor=ffffff&fontAlignY=48&desc=IdeaElan%20%C2%B7%20Kerala%2C%20India&descSize=14&descAlignY=70" alt="Sivesh — Junior AI Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=gradient&customColorList=0,2,24&text=Sivesh%20%C2%B7%20Junior%20AI%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=IdeaElan%20%C2%B7%20Kerala%2C%20India&descSize=15&descAlignY=68" alt="Sivesh — Junior AI Engineer" width="100%" />
 </div>
 
 <br/>
@@ -8,11 +8,14 @@
 
 **I build multi-agent AI systems and RAG pipelines that ship.**
 
+MSc AI/ML · CHRIST University · Research presented at an international AI conference
+
 </div>
 
 <br/>
 
 ### Currently
+
 - Building LLM applications, RAG pipelines, and multi-agent systems at IdeaElan — Aug 2026
 - Contributed a marketplace fulfillment prediction ML scoring task (Alignerr) — Aug 2026
 
@@ -20,8 +23,8 @@
 
 | | |
 | :---: | :---: |
-| [![Multi-Agent-Attrition-System](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multi-Agent-Attrition-System&theme=dark&show_owner=false)](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [![Mental-Health-Reddit-Sentiment-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Mental-Health-Reddit-Sentiment-Dashboard&theme=dark&show_owner=false)](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) |
-| [![Multilingual_document_Reader](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multilingual_document_Reader&theme=dark&show_owner=false)](https://github.com/siv3sh/Multilingual_document_Reader) | |
+| [<img src="https://socialify.git.ci/siv3sh/Multi-Agent-Attrition-System/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Multi-Agent-Attrition-System" width="420" />](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [<img src="https://socialify.git.ci/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Mental-Health-Reddit-Sentiment-Dashboard" width="420" />](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) |
+| [<img src="https://socialify.git.ci/siv3sh/Multilingual_document_Reader/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Multilingual_document_Reader" width="420" />](https://github.com/siv3sh/Multilingual_document_Reader) | |
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
