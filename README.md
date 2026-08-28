@@ -14,11 +14,9 @@ M.Sc. AI/ML · CHRIST University · Presented AgriCLIP-CNN at ICAI
 
 <br/>
 
-### Bio
+### About
 
-Junior AI Engineer at **Ideaelan**, building production LLM systems for Infinity X — ticket triage, related-ticket detection, auto-resolution, and reply suggestion on an Azure Cosmos DB–backed platform. Previously a GenAI Intern at **UIAI Technologies**, where I shipped multi-agent workflows and RAG pipelines (≈35% retrieval lift) and fine-tuned models for hiring automation.
-
-M.Sc. Artificial Intelligence and Machine Learning at CHRIST University, Bangalore (BCA, Mahatma Gandhi University). Research presenter at ICAI on **AgriCLIP-CNN** for plant disease detection; Q1 journal submission on multimodal plant phenotyping under review.
+I'm a Junior AI Engineer at Ideaelan (remote, Kerala), shipping RAG pipelines, multi-agent systems, and LLM automation into production. Right now that means AI ticket automation — LLM triage, auto-close, reply suggestions — plus ownership of the Azure Cosmos DB–backed platform underneath it. I'm doing an M.Sc. in AI/ML at CHRIST University; I presented AgriCLIP-CNN at ICAI.
 
 ### Currently
 
