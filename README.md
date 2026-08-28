@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=0,2,24&text=Welcome%20to%20Sivesh's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Junior%20AI%20Engineer%20%C2%B7%20Ideaelan&descSize=16&descAlignY=65" width="100%" alt="Welcome to Sivesh's GitHub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1026,50:1B3A6B,100:3D5AFE&text=Sivesh%20PB&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Junior%20AI%20Engineer%20%C2%B7%20Ideaelan%20%C2%B7%20RAG%20%26%20Multi-Agent%20Systems&descSize=15&descAlignY=62&animation=fadeIn's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Junior%20AI%20Engineer%20%C2%B7%20Ideaelan&descSize=16&descAlignY=65" width="100%" alt="Sivesh PB — Junior AI Engineer" />
 </div>
 
 <p align="center">
