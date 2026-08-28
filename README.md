@@ -16,12 +16,18 @@
 - Building LLM applications, RAG pipelines, and multi-agent systems at IdeaElan — Aug 2026
 - Contributed a marketplace fulfillment prediction ML scoring task (Alignerr) — Aug 2026
 
-### Featured Work
+### 🚀 Featured Work
 
 | | |
 | :---: | :---: |
-| [![Multi-Agent-Attrition-System](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multi-Agent-Attrition-System&theme=tokyonight&hide_border=true)](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [![Mental-Health-Reddit-Sentiment-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Mental-Health-Reddit-Sentiment-Dashboard&theme=tokyonight&hide_border=true)](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) |
-| [![Multilingual_document_Reader](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multilingual_document_Reader&theme=tokyonight&hide_border=true)](https://github.com/siv3sh/Multilingual_document_Reader) | |
+| [![Multi-Agent-Attrition-System](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multi-Agent-Attrition-System&theme=dark&show_owner=false)](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [![Mental-Health-Reddit-Sentiment-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Mental-Health-Reddit-Sentiment-Dashboard&theme=dark&show_owner=false)](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) |
+| [![Multilingual_document_Reader](https://github-readme-stats.vercel.app/api/pin/?username=siv3sh&repo=Multilingual_document_Reader&theme=dark&show_owner=false)](https://github.com/siv3sh/Multilingual_document_Reader) | |
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [Multi-Agent-Attrition-System](https://github.com/siv3sh/Multi-Agent-Attrition-System) | Multi-agent system for employee attrition prediction | Python, multi-agent |
+| [Mental-Health-Reddit-Sentiment-Dashboard](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) | Sentiment dashboard on Reddit mental-health data | Python, NLP |
+| [Multilingual_document_Reader](https://github.com/siv3sh/Multilingual_document_Reader) | Multilingual document RAG / reader | Python, RAG, LLM |
 
 ### Stack
 
