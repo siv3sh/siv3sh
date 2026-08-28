@@ -43,55 +43,57 @@ M.Sc. AI/ML at CHRIST University. Presented AgriCLIP-CNN at ICAI.
 <h2 align="center">🚀 Featured Work</h2>
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/siv3sh/Multi-Agent-Attrition-System">
-        <img src="https://socialify.git.ci/siv3sh/Multi-Agent-Attrition-System/image?font=Raleway&language=1&name=1&owner=0&pattern=Plus&stargazers=1&theme=Tokyonight" alt="Multi-Agent-Attrition-System" width="100%" />
-      </a>
-      <br/>
-      <strong>Multi-Agent Attrition System</strong>
-      <br/>
-      <sub>Multi-agent attrition analysis with RAG over employee records</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" alt="ChromaDB" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/siv3sh/Christ-Career---Placements">
-        <img src="https://socialify.git.ci/siv3sh/Christ-Career---Placements/image?font=Raleway&language=1&name=1&owner=0&pattern=Diagonal&stargazers=1&theme=Dark" alt="Christ-Career---Placements" width="100%" />
-      </a>
-      <br/>
-      <strong>Career Placement Assistant</strong>
-      <br/>
-      <sub>RAG assistant over 3,000+ university placement records</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" alt="ChromaDB" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard">
-        <img src="https://socialify.git.ci/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard/image?font=Raleway&language=1&name=1&owner=0&pattern=Signal&stargazers=1&theme=Radical" alt="Mental-Health-Reddit-Sentiment-Dashboard" width="70%" />
-      </a>
-      <br/>
-      <strong>Mental Health Risk Detection Agent</strong>
-      <br/>
-      <sub>RoBERTa risk/sentiment classification + local Mistral replies via Ollama</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="RoBERTa" />
-      <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" alt="Mistral" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/siv3sh/Multi-Agent-Attrition-System">
+<img src="https://socialify.git.ci/siv3sh/Multi-Agent-Attrition-System/image?font=Inter&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Tokyonight" alt="Multi-Agent Attrition System" width="100%" />
+</a>
+<br/><br/>
+<strong>Multi-Agent Attrition System</strong>
+<br/>
+<sub>Multi-agent attrition analysis with RAG over employee records</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" alt="ChromaDB" />
+<br/><br/>
+<a href="https://github.com/siv3sh/Multi-Agent-Attrition-System">View repo →</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/siv3sh/Christ-Career---Placements">
+<img src="https://socialify.git.ci/siv3sh/Christ-Career---Placements/image?font=Inter&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Tokyonight" alt="Career Placement Assistant" width="100%" />
+</a>
+<br/><br/>
+<strong>Career Placement Assistant</strong>
+<br/>
+<sub>RAG assistant over 3,000+ university placement records</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square" alt="ChromaDB" />
+<br/><br/>
+<a href="https://github.com/siv3sh/Christ-Career---Placements">View repo →</a>
+</td>
+<td width="33%" valign="top" align="center">
+<a href="https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard">
+<img src="https://socialify.git.ci/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard/image?font=Inter&language=1&name=1&owner=0&pattern=Solid&stargazers=1&theme=Tokyonight" alt="Mental Health Risk Detection Agent" width="100%" />
+</a>
+<br/><br/>
+<strong>Mental Health Risk Agent</strong>
+<br/>
+<sub>RoBERTa risk/sentiment + local Mistral replies via Ollama</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/RoBERTa-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="RoBERTa" />
+<img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square" alt="Mistral" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama" />
+<br/><br/>
+<a href="https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard">View repo →</a>
+</td>
+</tr>
 </table>
-
----
 
 <h2 align="center">🛠️ Technologies</h2>
 
