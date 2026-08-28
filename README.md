@@ -77,9 +77,9 @@ M.Sc. AI/ML at CHRIST University. Presented AgriCLIP-CNN at ICAI.
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siv3sh&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siv3sh&theme=github_dark" alt="GitHub stats" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siv3sh&theme=github_dark" alt="Repos per language" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siv3sh&theme=github_dark" alt="Most commit language" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siv3sh&theme=github_dark" alt="Productive time" height="165" />
 </p>
 
 ---
