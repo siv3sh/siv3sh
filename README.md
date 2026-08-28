@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=gradient&customColorList=0,2,24&text=Sivesh%20%C2%B7%20Junior%20AI%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=IdeaElan%20%C2%B7%20Kerala%2C%20India&descSize=15&descAlignY=68" alt="Sivesh — Junior AI Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=gradient&customColorList=0,2,24&text=Sivesh%20PB%20%C2%B7%20Junior%20AI%20Engineer&fontSize=34&fontColor=ffffff&fontAlignY=45&desc=Ideaelan%20%C2%B7%20Remote&descSize=15&descAlignY=68" alt="Sivesh PB — Junior AI Engineer" width="100%" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 **I build multi-agent AI systems and RAG pipelines that ship.**
 
-MSc AI/ML · CHRIST University · Research presented at an international AI conference
+M.Sc. AI/ML · CHRIST University · Presented AgriCLIP-CNN at ICAI
 
 </div>
 
@@ -16,44 +16,46 @@ MSc AI/ML · CHRIST University · Research presented at an international AI conf
 
 ### Currently
 
-- Building LLM applications, RAG pipelines, and multi-agent systems at IdeaElan — Aug 2026
-- Contributed a marketplace fulfillment prediction ML scoring task (Alignerr) — Aug 2026
+- Shipping AI ticket automation on Infinity X at Ideaelan — LLM triage, related-ticket detection, auto-close, reply suggestions — Aug 2026
+- Owning Azure Cosmos DB–backed platform architecture (APIs, backend services, integrations) — Jan 2025–Present
 
 ### 🚀 Featured Work
 
 | | |
 | :---: | :---: |
-| [<img src="https://socialify.git.ci/siv3sh/Multi-Agent-Attrition-System/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Multi-Agent-Attrition-System" width="420" />](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [<img src="https://socialify.git.ci/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Mental-Health-Reddit-Sentiment-Dashboard" width="420" />](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) |
-| [<img src="https://socialify.git.ci/siv3sh/Multilingual_document_Reader/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Multilingual_document_Reader" width="420" />](https://github.com/siv3sh/Multilingual_document_Reader) | |
+| [<img src="https://socialify.git.ci/siv3sh/Multi-Agent-Attrition-System/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Multi-Agent-Attrition-System" width="420" />](https://github.com/siv3sh/Multi-Agent-Attrition-System) | [<img src="https://socialify.git.ci/siv3sh/Christ-Career---Placements/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Christ-Career---Placements" width="420" />](https://github.com/siv3sh/Christ-Career---Placements) |
+| [<img src="https://socialify.git.ci/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard/image?font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark" alt="Mental-Health-Reddit-Sentiment-Dashboard" width="420" />](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) | |
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [Multi-Agent-Attrition-System](https://github.com/siv3sh/Multi-Agent-Attrition-System) | Multi-agent system for employee attrition prediction | Python, multi-agent |
-| [Mental-Health-Reddit-Sentiment-Dashboard](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) | Sentiment dashboard on Reddit mental-health data | Python, NLP |
-| [Multilingual_document_Reader](https://github.com/siv3sh/Multilingual_document_Reader) | Multilingual document RAG / reader | Python, RAG, LLM |
+| [Multi-Agent-Attrition-System](https://github.com/siv3sh/Multi-Agent-Attrition-System) | Multi-agent attrition analysis with RAG over employee records | LangChain, Streamlit, Docker, ChromaDB |
+| [Christ-Career---Placements](https://github.com/siv3sh/Christ-Career---Placements) | Placement assistant RAG over 3,000+ university records | Python, Streamlit, Groq, ChromaDB |
+| [Mental-Health-Reddit-Sentiment-Dashboard](https://github.com/siv3sh/Mental-Health-Reddit-Sentiment-Dashboard) | Risk/sentiment classification + local empathetic LLM replies | RoBERTa, Mistral, Streamlit, Ollama |
 
 ### Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Infra**  
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![Chroma](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Reach Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_UPWORK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siv3sh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siv3sh@gmail.com)
+[![Work](https://img.shields.io/badge/Work-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sivesh.p@ideaelan.com)
 
 </div>
